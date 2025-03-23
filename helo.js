@@ -53,6 +53,7 @@ async function testGeminiAPI(apiKey) {
     }
   } catch (error) {
     console.error("Error calling Gemini API:", error);
+
   }
 }
 
